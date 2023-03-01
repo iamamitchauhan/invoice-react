@@ -1,0 +1,36 @@
+.invoice-wrapper .chip{
+  height:20px;
+  width:auto;
+  border-radius: 20px;
+  padding: 5px 10px
+}
+.invoice-wrapper .NOT_SCHEDULED{
+  color:#545048;
+  background:#939089;
+  
+}
+.invoice-wrapper .CANCELLED{
+  color:#545048;
+  background:#939089;
+
+}
+.invoice-wrapper .PENDING{
+  color:#A15013;
+  background:#efc3a1;
+
+}
+.invoice-wrapper .FAILED{
+  color:#B12A2E;
+  background:#ee9c9e;
+
+}
+.invoice-wrapper .INSTALLMENT_N_OF_PAID{
+  color:#036F4B;
+  background:#9cebd1;
+
+}
+.invoice-wrapper .NEED_ATTENTION{
+  color:#B12A2E;
+  background:#eca4a7;
+
+}
